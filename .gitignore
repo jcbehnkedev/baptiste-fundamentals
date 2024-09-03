@@ -129,6 +129,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.py312_course
+py312_course/
 
 # Spyder project settings
 .spyderproject
